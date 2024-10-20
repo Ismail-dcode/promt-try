@@ -1,3 +1,3 @@
 # promt-try
 first repository
-author - Ismail
+author - Ismail MIT
